@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : ajayjadhav
 facebook:
   username               :
   app_id                 :
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Ajay Jadhav"
+  avatar           : "Ajay-Smile-Sigree.png"
+  bio              : "Idealism is progressive... - ""Shrimad Bhagvadgita"""
+  location         : "Pune, MS, India"
   email            :
   uri              :
   bitbucket        :
@@ -73,18 +73,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/jadhavajay
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://in.linkedin.com/in/jadhavajay
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/ajayjadhav
   vine             :
   weibo            :
   xing             :
