@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "AJile journey..."
+title                    : "AJile Journey..."
 title_separator          : "-"
 name                     : "Ajay Jadhav"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Idealism is progressive - Shrimad-Bhagvadgeeta"
+url                      : www.ajile.in
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : ajayjadhav
 facebook:
   username               :
   app_id                 :
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ajay Jadhav"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Pune, MS, India"
+  email            : ajay@ayanworks.com
   uri              :
   bitbucket        :
   codepen          :
@@ -89,19 +89,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : jadhavajay
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : jadhavajay # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : ajayjadhav
   vine             :
   weibo            :
   xing             :
