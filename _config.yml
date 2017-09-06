@@ -10,13 +10,8 @@ locale                   : "en"
 title                    : "AJile Journey"
 title_separator          : "-"
 name                     : "Ajay Jadhav"
-<<<<<<< HEAD
-description              : "Idealism is progressive... - ""Shrimad Bhagvadgita"""
-url                      : https://jadhavajay.github.io
-=======
 description              : "Insights and new learnings in software engineering, blockchain, .net ..."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
->>>>>>> e7d20b7bb8d17ad7d53c60ad726c5703e867a2b8
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -67,13 +62,8 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Ajay Jadhav"
-<<<<<<< HEAD
-  avatar           : "Ajay-Smile-Sigree.png"
-  bio              : "Idealism is progressive... - ""Shrimad Bhagvadgita"""
-=======
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Co-founder & Principal Architect @ AyanWorks"
->>>>>>> e7d20b7bb8d17ad7d53c60ad726c5703e867a2b8
   location         : "Pune, MS, India"
   email            :
   uri              :
@@ -91,13 +81,8 @@ author:
   linkedin         : https://in.linkedin.com/in/jadhavajay
   pinterest        :
   soundcloud       :
-<<<<<<< HEAD
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-=======
   stackoverflow    : 1264361/ajay-jadhav # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
->>>>>>> e7d20b7bb8d17ad7d53c60ad726c5703e867a2b8
   tumblr           :
   twitter          : https://twitter.com/ajayjadhav
   vine             :
